@@ -3,7 +3,7 @@
 Um projeto de teste com um arquivo Readme🚀
 
 
-<img src="landing-page.gif.gif">
+[<img src="landing-page.gif.gif">]
 
 ## Linguagens Utilizadas
 
